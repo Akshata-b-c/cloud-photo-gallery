@@ -81,9 +81,9 @@ The application requires:
 - Storage policies for authenticated users
 
 ## Author
-**Name:** Akshata b c
+Name: Akshata b c
 
 ## Links
-**GitHub Repository:** To be added
+GitHub Repository:https://github.com/Akshata-b-c/cloud-photo-gallery.git
 
-**Live Application:** To be added
+Live Application:https://cloud-photo-gallery-rust.vercel.app/
